@@ -1,0 +1,18 @@
+# Default ignored files
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+misc.xml
+modules.xml
+profiles_settings.xml
+vcs.xml
+Data-Science-Project.iml
+Data-Sci-Project.iml
