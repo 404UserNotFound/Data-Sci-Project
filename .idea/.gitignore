@@ -9,7 +9,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-Data-Science-Project.iml
 misc.xml
 modules.xml
 profiles_settings.xml
