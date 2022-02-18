@@ -28,7 +28,7 @@ pyplot.show()
 # calculate kendall tau correlation
 coefficient, p_value = kendalltau(heart, gdp)
 
-print("coefficient and p-value:")
+print("coefficient and p-value with all decimal pts:")
 print(coefficient)
 print(p_value)
 
